@@ -1,0 +1,42 @@
+body {display: flex;justify-content: center;height: 80vh;align-items: center;}
+div {  border: 1px solid;  height: 50px;  width: 50px;  border-radius: 50%;  -webkit-border-radius: 50%;  -moz-border-radius: 50%;  -ms-border-radius: 50%;  -o-border-radius: 50%;  margin: 0px 6px 0px 6px;}
+button {cursor: pointer;}
+.cont {  height: 25px;  align-self: center;}
+section { transform: translate(-300px, 50px); -webkit-transform: translate(-300px, 50px); -moz-transform: translate(-300px, 50px); -ms-transform: translate(-300px, 50px); -o-transform: translate(-300px, 50px);}
+section .plus {margin: 0px 10px 0px 10px;}
+.r {
+  background-color: red;
+}
+.b {
+  background-color: rgb(14, 184, 252);
+}
+.g {
+  background-color: yellowgreen;
+}
+.y {
+  background-color: yellow;
+}
+.one {
+  background-color: red;
+}
+.two {
+  background-color: rgb(14, 184, 252);
+}
+.three {
+  background-color: yellowgreen;
+}
+.four {
+  background-color: yellow;
+}
+.five {
+  background-color: red;
+}
+.six {
+  background-color: rgb(14, 184, 252);
+}
+.seven {
+  background-color: yellowgreen;
+}
+.eight {
+  background-color: yellow;
+}
